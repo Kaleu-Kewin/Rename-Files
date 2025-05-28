@@ -1,3 +1,2 @@
 # Renomeador de Arquivos
-
-Fiz esse projeto simples para organizar meus arquivos de estudos, ex: aula_1, aula_2.. etc.
+- Fiz esse projeto simples para organizar meus arquivos de estudos com nomes padronizados, ex: Aula_1, Aula_2.. etc.
